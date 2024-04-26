@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ilaxmisingh! Welcome to your GitHub profile.
+- 👀 I’m interested in exploring new technologies, contributing to open-source projects, and connecting with like-minded individuals in the tech community.
+- 🌱 I’m currently learning machine learning algorithms and techniques, as well as deepening my understanding of web development frameworks like React.js and Node.js.
+- 💞️ I’m looking to collaborate on projects that involve machine learning applications, web development, or any interesting tech initiatives.
+- 📫 You can reach me via email at singhlaxmi1232@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/laxmi-singh-087795233
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:I share your love for traveling! I've explored five different states and I'm always on the lookout for my next adventure. There's something special about discovering new places, whether it's a hidden gem in your own backyard or an exotic destination halfway across the globe. Here's to many more adventures ahead! 🌍✈️
