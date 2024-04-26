@@ -1,7 +1,8 @@
-[![MasterHead](https://www.figma.com/file/ESJjQBBPzZLDWs8aWVkrID/README-Github-Banner-(Community)?type=design&node-id=0-1&mode=design&t=zNu8Bf9OSxLsQbsC-0)](https://ilaxmisingh.io)
+
 <h1 align="center">Hi 👋, I'm Laxmi Singh</h1>
 <h3 align="center">Blending Web Webs and AI Algorithms: Crafting Digital Experiences Globally</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.mp4">
+<center><video src="https://i.gifer.com/JXA0.mp4" controls></video></center>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
