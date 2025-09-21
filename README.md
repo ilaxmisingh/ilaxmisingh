@@ -4,9 +4,9 @@
 <center><video src="https://i.gifer.com/JXA0.mp4" controls></video></center>
 
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN and Machine Learning**
 
 - 📫 How to reach me **singhlaxmi1232@gmail.com**
 
